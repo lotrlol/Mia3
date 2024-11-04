@@ -73,10 +73,11 @@ export function Header() {
             className="relative"
           >
             <img 
-              src="https://raw.githubusercontent.com/yourusername/your-repo/main/mia-avatar.png" 
+              src="https://i.ibb.co/85xkWVW/Mia-agency-automation-image-300x300.png" 
               alt="Mia AI Assistant"
               className="w-full max-w-md mx-auto"
             />
+
           </motion.div>
         </div>
       </div>
